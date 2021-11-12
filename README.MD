@@ -1,8 +1,9 @@
 This repo uses computer vision MRCNN algorithm for the following kaggle competition: <br>
 https://www.kaggle.com/c/sartorius-cell-instance-segmentation
 
-M-RCNN is well designed for instance segmentation, which is required here: (extract of Kaggle competition overview)
+M-RCNN is well designed for instance segmentation, which is required here: 
 
+<i>(extract of Kaggle competition overview)</i><br>
 "In this competition, you’ll detect and delineate distinct objects of interest in biological images depicting neuronal cell types commonly used in the study of neurological 
 disorders. More specifically, you'll use phase contrast microscopy images to train and test your model for instance segmentation of neuronal cells. 
 Successful models will do this with a high level of accuracy."
